@@ -2,7 +2,7 @@
 <img src="https://github.com/enesvardar/hexapod-spider/blob/main/images/walkred.gif" width="500" height="300"/>
 <img src="https://github.com/enesvardar/hexapod-spider/blob/main/images/rotation1.gif" width="500" height="300"/>
 <img src="https://github.com/enesvardar/hexapod-spider/blob/main/images/dancered.gif" width="500" height="300"/>
-<img src="https://github.com/enesvardar/hexapod-spider/blob/main/images/coordinate system.gif" width="500" height="300"/>
+
 
 # Announcement
 
